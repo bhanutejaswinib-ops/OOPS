@@ -1,2 +1,2 @@
 # OOPS
-Python Programs (OPPS)
+Python Programs (OOPS)
